@@ -1,0 +1,39 @@
+Copyright Document for Flutter Wallet App:
+
+© 2023 Rusith Tharindu Athukorala. All rights reserved.
+
+The Flutter Wallet App, including all associated software, design, and documentation, is protected by copyright laws and international treaties. This document outlines the terms and conditions for the authorized use of the app.
+
+1. Ownership:
+   The Flutter Wallet App, its source code, user interface, and all related intellectual property rights are owned by Rusith Tharindu Athukorala. Unauthorized copying, modification, distribution, or reverse engineering of the app is strictly prohibited.
+
+2. Authorized Use:
+   The Flutter Wallet App is licensed, not sold, to users for personal, non-commercial use. Users are granted a limited, non-exclusive, and non-transferable right to install and use the app on their personal devices in accordance with the terms stated herein.
+
+3. Restrictions:
+   Users shall not:
+   - Copy, modify, or create derivative works of the app.
+   - Distribute, sublicense, or lease the app to third parties.
+   - Remove, alter, or obscure any copyright notices or proprietary information present in the app.
+
+4. Updates and Upgrades:
+   Rusith Tharindu Athukorala may release updates and upgrades to the Flutter Wallet App. Users are encouraged to install these updates to benefit from enhanced features, bug fixes, and security improvements.
+
+5. Disclaimer of Warranty:
+   The Flutter Wallet App is provided "as is" without any warranties or guarantees, express or implied. Rusith Tharindu Athukorala does not warrant that the app will be error-free, uninterrupted, or meet the user's specific requirements. Users assume all risks and responsibilities associated with the app's use.
+
+6. Limitation of Liability:
+   Rusith Tharindu Athukorala shall not be liable for any direct, indirect, incidental, consequential, or punitive damages arising from the use or inability to use the Flutter Wallet App, even if advised of the possibility of such damages.
+
+By installing and using the Flutter Wallet App, users agree to abide by the terms and conditions outlined in this Copyright Document. Any unauthorized use of the app may result in civil and criminal penalties as prescribed by applicable laws.
+
+For inquiries or further information, please contact ruzistudios1997@gmail.com .
+
+Rusith Tharindu Athukorala
+10, Samarakkodiwatta, Keppitiwalana
+Alawwa, North Western Province, 60280
+Srilanka
+ruzistudios1997@gmail.com
++94771853492
+
+Note: This is a general template and should be reviewed and customized by a legal professional to ensure compliance with specific jurisdictional requirements and circumstances.
